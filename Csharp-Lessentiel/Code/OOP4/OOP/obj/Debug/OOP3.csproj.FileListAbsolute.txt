@@ -1,0 +1,9 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP3\OOP\bin\Debug\OOP.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP3\OOP\obj\Debug\OOP.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP3\OOP\obj\Debug\OOP.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP3\OOP\obj\Debug\OOP3.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP3\OOP\bin\Debug\OOP.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP3\OOP\bin\Debug\OOP.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP4\OOP\bin\Debug\OOP.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP4\OOP\obj\Debug\OOP.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\OOP4\OOP\obj\Debug\OOP.pdb

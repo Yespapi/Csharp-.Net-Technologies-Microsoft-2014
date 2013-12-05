@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Classes\Classes\obj\Debug\Classes.pdb

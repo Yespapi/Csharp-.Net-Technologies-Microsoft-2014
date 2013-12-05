@@ -1,0 +1,5 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Conditionals\Conditionals\obj\Debug\Conditionals.pdb

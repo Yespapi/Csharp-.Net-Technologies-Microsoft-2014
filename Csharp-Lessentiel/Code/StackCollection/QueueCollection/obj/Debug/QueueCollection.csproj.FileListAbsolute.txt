@@ -1,0 +1,9 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\QueueCollection\QueueCollection\bin\Debug\QueueCollection.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\QueueCollection\QueueCollection\obj\Debug\QueueCollection.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\QueueCollection\QueueCollection\obj\Debug\QueueCollection.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\QueueCollection\QueueCollection\obj\Debug\QueueCollection.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\StackCollection\QueueCollection\bin\Debug\QueueCollection.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\StackCollection\QueueCollection\obj\Debug\QueueCollection.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\StackCollection\QueueCollection\obj\Debug\QueueCollection.pdb

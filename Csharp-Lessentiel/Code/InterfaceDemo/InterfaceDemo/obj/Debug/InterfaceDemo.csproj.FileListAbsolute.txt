@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

@@ -1,0 +1,5 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

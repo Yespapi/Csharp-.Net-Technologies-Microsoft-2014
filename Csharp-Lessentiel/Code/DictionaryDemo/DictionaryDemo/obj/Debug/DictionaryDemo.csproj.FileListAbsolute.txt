@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

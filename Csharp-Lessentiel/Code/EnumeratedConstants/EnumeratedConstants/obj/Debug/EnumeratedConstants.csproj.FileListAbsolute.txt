@@ -1,0 +1,1 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\EnumeratedConstants\EnumeratedConstants\bin\Debug\EnumeratedConstants.exe.config

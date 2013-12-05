@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb

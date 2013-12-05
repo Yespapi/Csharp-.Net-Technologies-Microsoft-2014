@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\ForLoops\ForLoops\obj\Debug\ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\ForLoops\ForLoops\obj\Debug\ForLoops.pdb

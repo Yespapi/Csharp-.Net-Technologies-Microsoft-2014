@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\GenericList\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\GenericList\GenericList\bin\Debug\GenericList.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\GenericList\GenericList\bin\Debug\GenericList.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\GenericList\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\GenericList\GenericList\obj\Debug\GenericList.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\GenericList\GenericList\obj\Debug\GenericList.pdb

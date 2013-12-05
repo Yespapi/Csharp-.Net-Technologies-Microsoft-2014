@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

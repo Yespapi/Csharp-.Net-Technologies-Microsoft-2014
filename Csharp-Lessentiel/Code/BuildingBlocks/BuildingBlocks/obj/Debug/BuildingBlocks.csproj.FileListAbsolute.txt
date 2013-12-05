@@ -1,0 +1,6 @@
+c:\users\telerik\documents\visual studio 2012\Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe.config
+c:\users\telerik\documents\visual studio 2012\Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe
+c:\users\telerik\documents\visual studio 2012\Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.pdb
+c:\users\telerik\documents\visual studio 2012\Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.csprojResolveAssemblyReference.cache
+c:\users\telerik\documents\visual studio 2012\Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.exe
+c:\users\telerik\documents\visual studio 2012\Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.pdb

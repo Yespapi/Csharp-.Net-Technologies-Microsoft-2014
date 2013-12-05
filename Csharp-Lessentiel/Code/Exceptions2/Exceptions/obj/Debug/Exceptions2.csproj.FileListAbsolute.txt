@@ -1,0 +1,6 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Exceptions2\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Exceptions2\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Exceptions2\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Exceptions2\Exceptions\obj\Debug\Exceptions2.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Exceptions2\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\CSharpFromScratch\Exceptions2\Exceptions\obj\Debug\Exceptions.pdb

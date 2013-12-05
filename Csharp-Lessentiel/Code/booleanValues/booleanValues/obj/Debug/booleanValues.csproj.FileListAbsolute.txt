@@ -1,0 +1,6 @@
+c:\users\telerik\documents\visual studio 2012\Projects\booleanValues\booleanValues\bin\Debug\booleanValues.exe.config
+c:\users\telerik\documents\visual studio 2012\Projects\booleanValues\booleanValues\bin\Debug\booleanValues.exe
+c:\users\telerik\documents\visual studio 2012\Projects\booleanValues\booleanValues\bin\Debug\booleanValues.pdb
+c:\users\telerik\documents\visual studio 2012\Projects\booleanValues\booleanValues\obj\Debug\booleanValues.csprojResolveAssemblyReference.cache
+c:\users\telerik\documents\visual studio 2012\Projects\booleanValues\booleanValues\obj\Debug\booleanValues.exe
+c:\users\telerik\documents\visual studio 2012\Projects\booleanValues\booleanValues\obj\Debug\booleanValues.pdb
