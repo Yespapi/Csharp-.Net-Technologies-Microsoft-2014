@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\cstypes\InvoiceLibrary\bin\Debug\InvoiceLibrary.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\cstypes\InvoiceLibrary\bin\Debug\InvoiceLibrary.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\cstypes\InvoiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\cstypes\InvoiceLibrary\obj\Debug\InvoiceLibrary.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\cstypes\InvoiceLibrary\obj\Debug\InvoiceLibrary.pdb

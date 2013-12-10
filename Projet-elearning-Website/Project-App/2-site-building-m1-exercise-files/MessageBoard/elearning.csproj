@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{43CCAFF0-8984-42CA-9A01-FFC3854A7847}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>elearning</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\Template\font-awesome\fontawesome-webfont.svg" />
+    <Content Include="Content\Template\img\arrow-down.png" />
+    <Content Include="Content\Template\img\arrow-right.png" />
+    <Content Include="Content\Template\img\ashok.jpg" />
+    <Content Include="Content\Template\img\bg_direction_nav.png" />
+    <Content Include="Content\Template\img\facebook.png" />
+    <Content Include="Content\Template\img\favicon\favicon.png" />
+    <Content Include="Content\Template\img\foot-quote.png" />
+    <Content Include="Content\Template\img\googleplus.png" />
+    <Content Include="Content\Template\img\linkedin.png" />
+    <Content Include="Content\Template\img\photos\1.jpg" />
+    <Content Include="Content\Template\img\photos\2.jpg" />
+    <Content Include="Content\Template\img\photos\3.jpg" />
+    <Content Include="Content\Template\img\photos\4.jpg" />
+    <Content Include="Content\Template\img\photos\5.jpg" />
+    <Content Include="Content\Template\img\photos\6.jpg" />
+    <Content Include="Content\Template\img\photos\7.jpg" />
+    <Content Include="Content\Template\img\photos\8.jpg" />
+    <Content Include="Content\Template\img\photos\s1.jpg" />
+    <Content Include="Content\Template\img\photos\s2.jpg" />
+    <Content Include="Content\Template\img\photos\s3.jpg" />
+    <Content Include="Content\Template\img\photos\s4.jpg" />
+    <Content Include="Content\Template\img\photos\s5.jpg" />
+    <Content Include="Content\Template\img\photos\s6.jpg" />
+    <Content Include="Content\Template\img\photos\s7.jpg" />
+    <Content Include="Content\Template\img\photos\s8.jpg" />
+    <Content Include="Content\Template\img\photos\tn_1.jpg" />
+    <Content Include="Content\Template\img\photos\tn_11.jpg" />
+    <Content Include="Content\Template\img\photos\tn_2.jpg" />
+    <Content Include="Content\Template\img\photos\tn_22.jpg" />
+    <Content Include="Content\Template\img\photos\tn_3.jpg" />
+    <Content Include="Content\Template\img\photos\tn_33.jpg" />
+    <Content Include="Content\Template\img\photos\tn_4.jpg" />
+    <Content Include="Content\Template\img\photos\tn_44.jpg" />
+    <Content Include="Content\Template\img\photos\tn_5.jpg" />
+    <Content Include="Content\Template\img\photos\tn_55.jpg" />
+    <Content Include="Content\Template\img\photos\tn_6.jpg" />
+    <Content Include="Content\Template\img\photos\tn_66.jpg" />
+    <Content Include="Content\Template\img\photos\tn_7.jpg" />
+    <Content Include="Content\Template\img\photos\tn_77.jpg" />
+    <Content Include="Content\Template\img\photos\tn_8.jpg" />
+    <Content Include="Content\Template\img\photos\tn_88.jpg" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_rounded\btnNext.png" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_rounded\btnPrevious.png" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_rounded\loader.gif" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_rounded\sprite.png" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_square\btnNext.png" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_square\btnPrevious.png" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_square\loader.gif" />
+    <Content Include="Content\Template\img\prettyPhoto\dark_square\sprite.png" />
+    <Content Include="Content\Template\img\prettyPhoto\default\default_thumb.png" />
+    <Content Include="Content\Template\img\prettyPhoto\default\loader.gif" />
+    <Content Include="Content\Template\img\prettyPhoto\default\sprite.png" />
+    <Content Include="Content\Template\img\prettyPhoto\default\sprite_next.png" />
+    <Content Include="Content\Template\img\prettyPhoto\default\sprite_prev.png" />
+    <Content Include="Content\Template\img\prettyPhoto\default\sprite_x.png" />
+    <Content Include="Content\Template\img\prettyPhoto\default\sprite_y.png" />
+    <Content Include="Content\Template\img\prettyPhoto\facebook\btnNext.png" />
+    <Content Include="Content\Template\img\prettyPhoto\facebook\btnPrevious.png" />
+    <Content Include="Content\Template\img\prettyPhoto\facebook\loader.gif" />
+    <Content Include="Content\Template\img\prettyPhoto\facebook\sprite.png" />
+    <Content Include="Content\Template\img\prettyPhoto\light_rounded\btnNext.png" />
+    <Content Include="Content\Template\img\prettyPhoto\light_rounded\btnPrevious.png" />
+    <Content Include="Content\Template\img\prettyPhoto\light_rounded\loader.gif" />
+    <Content Include="Content\Template\img\prettyPhoto\light_rounded\sprite.png" />
+    <Content Include="Content\Template\img\prettyPhoto\light_square\btnNext.png" />
+    <Content Include="Content\Template\img\prettyPhoto\light_square\btnPrevious.png" />
+    <Content Include="Content\Template\img\prettyPhoto\light_square\loader.gif" />
+    <Content Include="Content\Template\img\prettyPhoto\light_square\sprite.png" />
+    <Content Include="Content\Template\img\quote-blue.png" />
+    <Content Include="Content\Template\img\quote-green.png" />
+    <Content Include="Content\Template\img\quote-red.png" />
+    <Content Include="Content\Template\img\rss.png" />
+    <Content Include="Content\Template\img\twitter.png" />
+    <Content Include="Content\Template\style\blue.css" />
+    <Content Include="Content\Template\style\bootstrap-responsive.css" />
+    <Content Include="Content\Template\style\bootstrap.css" />
+    <Content Include="Content\Template\style\ddlevelsmenu-base.css" />
+    <Content Include="Content\Template\style\ddlevelsmenu-topbar.css" />
+    <Content Include="Content\Template\style\flexslider.css" />
+    <Content Include="Content\Template\style\font-awesome-ie7.css" />
+    <Content Include="Content\Template\style\font-awesome.css" />
+    <Content Include="Content\Template\style\green.css" />
+    <Content Include="Content\Template\style\prettyPhoto.css" />
+    <Content Include="Content\Template\style\red.css" />
+    <Content Include="Content\Template\style\style.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\accent.png" />
+    <Content Include="Images\bullet.png" />
+    <Content Include="Images\heroAccent.png" />
+    <Content Include="Images\orderedList0.png" />
+    <Content Include="Images\orderedList1.png" />
+    <Content Include="Images\orderedList2.png" />
+    <Content Include="Images\orderedList3.png" />
+    <Content Include="Images\orderedList4.png" />
+    <Content Include="Images\orderedList5.png" />
+    <Content Include="Images\orderedList6.png" />
+    <Content Include="Images\orderedList7.png" />
+    <Content Include="Images\orderedList8.png" />
+    <Content Include="Images\orderedList9.png" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\custom.js" />
+    <Content Include="Scripts\custom.min.js" />
+    <Content Include="Scripts\ddlevelsmenu.js" />
+    <Content Include="Scripts\easing.js" />
+    <Content Include="Scripts\flexslider.js" />
+    <Content Include="Scripts\gmap.js" />
+    <Content Include="Scripts\html5shim.js" />
+    <Content Include="Scripts\jquery-2.0.2.intellisense.js" />
+    <Content Include="Scripts\jquery-2.0.2.js" />
+    <Content Include="Scripts\jquery-2.0.2.min.js" />
+    <Content Include="Scripts\jquery.prettyPhoto.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\_references.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\AuthConfig.cs" />
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\Template\font-awesome\fontawesome-webfont.eot" />
+    <None Include="Content\Template\font-awesome\fontawesome-webfont.ttf" />
+    <None Include="Content\Template\font-awesome\fontawesome-webfont.woff" />
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-2.0.2.min.map" />
+    <None Include="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <None Include="Views\Account\ExternalLoginFailure.cshtml" />
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Account\Manage.cshtml" />
+    <None Include="Views\Account\Register.cshtml" />
+    <None Include="Views\Account\_ChangePasswordPartial.cshtml" />
+    <None Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <None Include="Views\Account\_RemoveExternalLoginsPartial.cshtml" />
+    <None Include="Views\Account\_SetPasswordPartial.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_LoginPartial.cshtml" />
+    <None Include="Views\Web.config" />
+    <None Include="Views\_ViewStart.cshtml" />
+    <None Include="Web.config" />
+    <None Include="Web.Debug.config" />
+    <None Include="Web.Release.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

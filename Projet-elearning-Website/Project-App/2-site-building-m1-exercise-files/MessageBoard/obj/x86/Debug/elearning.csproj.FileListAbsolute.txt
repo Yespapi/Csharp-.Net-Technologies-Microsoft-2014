@@ -1,0 +1,1 @@
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\Projet-elearning-Website\Project-App\2-site-building-m1-exercise-files\MessageBoard\obj\x86\Debug\elearning.csprojResolveAssemblyReference.cache

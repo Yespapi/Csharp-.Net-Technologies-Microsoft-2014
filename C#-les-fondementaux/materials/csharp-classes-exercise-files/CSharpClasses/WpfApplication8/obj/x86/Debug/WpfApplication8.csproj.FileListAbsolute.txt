@@ -1,0 +1,12 @@
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\bin\Debug\WpfApplication8.exe
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\bin\Debug\WpfApplication8.pdb
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8.csprojResolveAssemblyReference.cache
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\MainWindow.baml
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\MainWindow.g.cs
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\App.g.cs
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8_MarkupCompile.cache
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8.g.resources
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8.Properties.Resources.resources
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8.csproj.GenerateResource.Cache
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8.exe
+C:\Users\eyebe\Documents\GitHub\Csharp-.Net-Technologies-Microsoft-2014\C#-les-fondementaux\materials\csharp-classes-exercise-files\CSharpClasses\WpfApplication8\obj\x86\Debug\WpfApplication8.pdb
