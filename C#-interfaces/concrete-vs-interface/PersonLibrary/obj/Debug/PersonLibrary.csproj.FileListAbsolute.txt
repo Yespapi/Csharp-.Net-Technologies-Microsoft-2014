@@ -1,0 +1,5 @@
+E:\ms-tech\MICROSOFT TECHNOLOGIES\C # & .NET\C# Interfaces\csharp-interfaces\2-csharp-interfaces-m2-futureproofing-exercise-files\before\FutureProofing\PersonLibrary\bin\Debug\PersonLibrary.dll
+E:\ms-tech\MICROSOFT TECHNOLOGIES\C # & .NET\C# Interfaces\csharp-interfaces\2-csharp-interfaces-m2-futureproofing-exercise-files\before\FutureProofing\PersonLibrary\bin\Debug\PersonLibrary.pdb
+E:\ms-tech\MICROSOFT TECHNOLOGIES\C # & .NET\C# Interfaces\csharp-interfaces\2-csharp-interfaces-m2-futureproofing-exercise-files\before\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.csprojResolveAssemblyReference.cache
+E:\ms-tech\MICROSOFT TECHNOLOGIES\C # & .NET\C# Interfaces\csharp-interfaces\2-csharp-interfaces-m2-futureproofing-exercise-files\before\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.dll
+E:\ms-tech\MICROSOFT TECHNOLOGIES\C # & .NET\C# Interfaces\csharp-interfaces\2-csharp-interfaces-m2-futureproofing-exercise-files\before\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.pdb
