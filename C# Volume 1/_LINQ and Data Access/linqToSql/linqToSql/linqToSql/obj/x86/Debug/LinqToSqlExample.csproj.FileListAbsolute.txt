@@ -1,0 +1,17 @@
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\bin\Debug\AppData\Main.mdf
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\bin\Debug\AppData\Main_log.ldf
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\bin\Debug\LinqToSqlExample.exe.config
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\bin\Debug\LinqToSqlExample.exe
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\bin\Debug\LinqToSqlExample.pdb
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\MainWindow.baml
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\App.g.cs
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\LinqToSqlExample_Content.g.cs
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\LinqToSqlExample_MarkupCompile.cache
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\LinqToSqlExample.g.resources
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\LinqToSqlExample.Properties.Resources.resources
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\LinqToSqlExample.exe
+C:\Users\Edward\AppData\Local\Temporary Projects\LinqToSqlExample\obj\x86\Debug\LinqToSqlExample.pdb

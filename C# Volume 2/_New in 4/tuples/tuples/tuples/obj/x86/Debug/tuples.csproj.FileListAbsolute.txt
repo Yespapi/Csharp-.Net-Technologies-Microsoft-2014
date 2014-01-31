@@ -1,0 +1,5 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\tuples\tuples\bin\Debug\tuples.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\tuples\tuples\bin\Debug\tuples.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\tuples\tuples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\tuples\tuples\obj\x86\Debug\tuples.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\tuples\tuples\obj\x86\Debug\tuples.pdb
