@@ -1,0 +1,33 @@
+﻿<Window x:Class="Layouts_Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+                
+            <RowDefinition />
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*"/>
+
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="Red" Grid.Row="0"/>
+        <Rectangle Fill="Orange" Grid.Row="1"/>
+        <Rectangle Fill="Orange" Grid.Column="1"/>
+        <Rectangle Fill="Yellow" Grid.Row="2"/>
+        <Rectangle Fill="Green" Grid.Row="3"/>
+        <Rectangle Fill="Blue" Grid.Row="4" Grid.Column="1"/>
+        <Rectangle Fill="Indigo" Grid.Row="5"/>
+        <Rectangle Fill="Violet" Grid.Row="6"/>
+        <Rectangle Fill="Black" Grid.Row="7"/>
+         <Label Content="yes Papi Cool Papi"
+               FontSize="24" Grid.Row="4"/>
+    </Grid>
+</Window>

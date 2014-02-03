@@ -1,0 +1,17 @@
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-MVC3\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-MVC3\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-MVC3\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-MVC3\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-MVC3\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-MVC3\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Dev\Scratch\MvcMusicStore-v2.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Dev\Scratch\MvcMusicStore-v2.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Dev\Scratch\MvcMusicStore-v2.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Dev\Scratch\MvcMusicStore-v2.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Scratch\MvcMusicStore-v2.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Dev\Scratch\MvcMusicStore-v2.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Dev\SteveSmith\MvcMusicStore\trunk\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Dev\SteveSmith\MvcMusicStore\trunk\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Dev\SteveSmith\MvcMusicStore\trunk\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SteveSmith\MvcMusicStore\trunk\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Dev\SteveSmith\MvcMusicStore\trunk\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

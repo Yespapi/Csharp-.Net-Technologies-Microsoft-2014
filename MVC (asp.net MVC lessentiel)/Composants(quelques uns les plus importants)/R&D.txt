@@ -1,0 +1,17 @@
+r&d intro:
+Empty, basic, i A,  intranet Application, Mobile App, Web Api, single Page, Facebook Appiclication 
+the home controller is the default.
+lol URL routing is not URL Rewriting lol mor de rire
+//url Routing Contraints
+add always the date route before de defaults(generic _route) route,
+
+/*** controller bla bla ***/
+create fooController
+Fonction controller return by  default an ActionResult bien sur за ce change.
+OtherKinds of result that a function controller can return FileResult, JSONResult
+routing engine is not case sensitive
+/*****view bla bla ****/
+
+razor, view wihtout master Page, view whit master page, using other view (not conresponding the relative view
+for a specific controller).
+Create Model to simulate MVC architecture, datatBinding and Model Binding, generate view by model 

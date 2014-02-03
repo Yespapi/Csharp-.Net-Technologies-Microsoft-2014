@@ -1,0 +1,16 @@
+/*******WPF ******/
+WPF for desktop Apps
+WPF for Enterprise Apps
+XAML 
+/**************Intro   *********/
+1.Create WPF applications on vs
+notes: codeBehind, Grid, 
+Add some Panels : open the toolbox : drag : 
+texblock, give a name , set, the textproperty, datadingg ressources
+
+
+
+/**************PANELS *************/
+notes:grid & layouts rows et columns, rectangle, 
+grid columns, add label, 
+-stackpanel -wrapPanels, DockPanels
