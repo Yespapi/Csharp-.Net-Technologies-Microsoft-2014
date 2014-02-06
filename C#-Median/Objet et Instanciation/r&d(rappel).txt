@@ -1,0 +1,6 @@
+
+Abstract:
+Le modificateur abstract indique que l'élément en cours de modification a une implémentation manquante ou incomplète. Le modificateur abstract peut être utilisé avec des classes, des méthodes, des propriétés, des indexeurs et des événements. 
+Utilisez le modificateur abstract dans une déclaration de classe pour indiquer qu'une classe est destinée à être uniquement une classe de base d'autres classes. Les membres marqués comme abstraits, ou inclus dans une classe abstraite, 
+doivent être implémenté par les classes qui dérivent de la classe abstraite.
+Remarques : Classe fils qui implemente ses membres.
